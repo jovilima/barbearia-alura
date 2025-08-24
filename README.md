@@ -1,6 +1,6 @@
 # 🪒 Barbearia Alura  
 
-Projeto desenvolvido durante o curso de **HTML e CSS** da [Alura](https://www.alura.com.br), com o instrutor **Pedro Marins**.  
+Projeto desenvolvido durante o primeiro módulo do curso de **HTML e CSS** da [Alura](https://www.alura.com.br), com o instrutor **Pedro Marins**.  
 
 O objetivo foi aplicar conceitos básicos de **estruturação de páginas web** e **estilização com CSS**, criando um site fictício para a *Barbearia Alura*.  
 
@@ -9,7 +9,7 @@ O objetivo foi aplicar conceitos básicos de **estruturação de páginas web** 
 ## 📸 Demonstração  
 
 <p align="center">
-  
+  <img src="./video/demonstrativo.gif" width="600"/>
 </p>
 
 ---
