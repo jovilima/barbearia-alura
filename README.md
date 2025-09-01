@@ -33,11 +33,30 @@ Durante o desenvolvimento, pratiquei:
 
 ---
 
+# 🪒 Modulo 02
+
+---
+
+## 📸 Demonstração  
+
+<p align="center">
+  <img src="./video/demonstrativo2.gif" width="600"/>
+</p>
+
+## 📚 Aprendizados  
+
+- Estruturação de páginas com **HTML5**  
+- Navegação entre páginas com `<nav>` e listas  
+- Aplicação de **reset.css** para padronizar estilos  
+- Criação de um **layout responsivo básico** usando `inline-block`  
+- Uso de **hover** e **active** no CSS para interatividade  
+- Estilização de listas e caixas com bordas, espaçamento e `border-radius`  
+- Criação de um **rodapé personalizado** com imagem de fundo  
+
 ## 📌 Próximos Passos
 
-- Melhorar a responsividade para dispositivos móveis
+- Aplicar conceitos de responsividade com media queries
 
-- Adicionar um rodapé com contatos fictícios
+- Criar uma página de contato com formulário funcional
 
-- Aplicar novas propriedades do CSS para layout mais moderno
 ---
